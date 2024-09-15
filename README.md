@@ -11,4 +11,5 @@ A gamification of the garbage sorting process using an accessible web-based dash
 
 
 Slides Pitch: https://docs.google.com/presentation/d/1IFH0TFCnTaztTyjgvDxIICcoLQUun13oySmxnJlWMsw/edit?usp=sharing 
+
 Social Innovators in Training Pitch: https://drive.google.com/file/d/1_J9Qc9ZGvkPO3vkEuYy3IzjVgR5ac3hk/view?usp=sharing 
