@@ -1,6 +1,5 @@
 # WiE Greenhouse Hackathon
-## 🌟 Second Place Overall
-
+### 🌟 Second Place Overall
 Key concepts: HTML, CSS, JavaScript, Arduinos, Human factor, Data Analysis
 
 ### The Challenge: 
