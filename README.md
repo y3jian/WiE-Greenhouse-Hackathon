@@ -10,6 +10,4 @@ How can we boost this percentage to 60% by 2025 while concurrently making system
 A gamification of the garbage sorting process using an accessible web-based dashboard and arduino sensors to collect points and track garbage disposal on campus. 
 
 
-[Slides Pitch](https://docs.google.com/presentation/d/1IFH0TFCnTaztTyjgvDxIICcoLQUun13oySmxnJlWMsw/edit?usp=sharing)
-
-[Social Innovators in Training Pitch](https://drive.google.com/file/d/1_J9Qc9ZGvkPO3vkEuYy3IzjVgR5ac3hk/view?usp=sharing)
+[Slides Pitch](https://docs.google.com/presentation/d/1IFH0TFCnTaztTyjgvDxIICcoLQUun13oySmxnJlWMsw/edit?usp=sharing](https://docs.google.com/presentation/d/1QDXRprAAOXuqw0v8Ubfxnh-f8-5SF3vWGeEjTI4yUf0/edit?usp=sharing))
